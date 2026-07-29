@@ -1,7 +1,7 @@
 class Solution {
 public:
     string intToRoman(int num) {
-        // Lookups for each decimal place
+        
         string thousands[] = {"", "M", "MM", "MMM"};
         string hundreds[]  = {"", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"};
         string tens[]      = {"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"};
