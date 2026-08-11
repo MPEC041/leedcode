@@ -6,9 +6,9 @@ class Solution {
 public:
     std::vector<std::string> commonChars(std::vector<std::string>& words) {
         
-        std::vector<int> min_freq(26, 1000); // 1000 acts as infinity based on constraint bounds
+        std::vector<int> min_freq(26, 1000); 
 
-        // Seed frequencies using the first word
+        
         for (char c : words[0]) {
             min_freq[c - 'a']++;
         }
