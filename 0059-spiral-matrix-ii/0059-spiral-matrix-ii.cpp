@@ -6,7 +6,7 @@ public:
      
         std::vector<std::vector<int>> matrix(n, std::vector<int>(n, 0));
         
-        // Define the boundaries
+        
         int top = 0;
         int bottom = n - 1;
         int left = 0;
