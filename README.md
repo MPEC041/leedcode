@@ -33,10 +33,12 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/MPEC041/leedcode/tree/master/0059-spiral-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/MPEC041/leedcode/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/MPEC041/leedcode/tree/master/0059-spiral-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/MPEC041/leedcode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
