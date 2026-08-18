@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MPEC041/leedcode/tree/master/0050-powx-n) |
+| [2965-find-missing-and-repeated-values](https://github.com/MPEC041/leedcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -40,11 +41,13 @@
 | [0283-move-zeroes](https://github.com/MPEC041/leedcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
 | [1672-richest-customer-wealth](https://github.com/MPEC041/leedcode/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/MPEC041/leedcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/MPEC041/leedcode/tree/master/0059-spiral-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/MPEC041/leedcode/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/MPEC041/leedcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -55,6 +58,7 @@
 | [0169-majority-element](https://github.com/MPEC041/leedcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MPEC041/leedcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/MPEC041/leedcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
