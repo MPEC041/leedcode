@@ -37,6 +37,7 @@
 | [0059-spiral-matrix-ii](https://github.com/MPEC041/leedcode/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MPEC041/leedcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/MPEC041/leedcode/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/MPEC041/leedcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/MPEC041/leedcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MPEC041/leedcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MPEC041/leedcode/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/MPEC041/leedcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
