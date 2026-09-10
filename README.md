@@ -36,6 +36,7 @@
 | [0053-maximum-subarray](https://github.com/MPEC041/leedcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/MPEC041/leedcode/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MPEC041/leedcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0137-single-number-ii](https://github.com/MPEC041/leedcode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/MPEC041/leedcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MPEC041/leedcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MPEC041/leedcode/tree/master/0283-move-zeroes) |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/MPEC041/leedcode/tree/master/0147-insertion-sort-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/MPEC041/leedcode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
