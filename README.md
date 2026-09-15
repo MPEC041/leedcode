@@ -44,6 +44,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/MPEC041/leedcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/MPEC041/leedcode/tree/master/1672-richest-customer-wealth) |
+| [1854-maximum-population-year](https://github.com/MPEC041/leedcode/tree/master/1854-maximum-population-year) |
 | [2965-find-missing-and-repeated-values](https://github.com/MPEC041/leedcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MPEC041/leedcode/tree/master/0169-majority-element) |
+| [1854-maximum-population-year](https://github.com/MPEC041/leedcode/tree/master/1854-maximum-population-year) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -109,4 +111,5 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/MPEC041/leedcode/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/MPEC041/leedcode/tree/master/1854-maximum-population-year) |
 <!---LeetCode Topics End-->
