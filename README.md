@@ -42,6 +42,7 @@
 | [0217-contains-duplicate](https://github.com/MPEC041/leedcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MPEC041/leedcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/MPEC041/leedcode/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/MPEC041/leedcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/MPEC041/leedcode/tree/master/1672-richest-customer-wealth) |
 | [1854-maximum-population-year](https://github.com/MPEC041/leedcode/tree/master/1854-maximum-population-year) |
@@ -112,4 +113,8 @@
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/MPEC041/leedcode/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/MPEC041/leedcode/tree/master/1854-maximum-population-year) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/MPEC041/leedcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
