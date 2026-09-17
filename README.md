@@ -100,6 +100,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/MPEC041/leedcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/MPEC041/leedcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Linked List
 |  |
 | ------- |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/MPEC041/leedcode/tree/master/0643-maximum-average-subarray-i) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/MPEC041/leedcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
