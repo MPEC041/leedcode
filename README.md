@@ -45,6 +45,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/MPEC041/leedcode/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/MPEC041/leedcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/MPEC041/leedcode/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/MPEC041/leedcode/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/MPEC041/leedcode/tree/master/1854-maximum-population-year) |
 | [2965-find-missing-and-repeated-values](https://github.com/MPEC041/leedcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -63,6 +64,7 @@
 | [0169-majority-element](https://github.com/MPEC041/leedcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MPEC041/leedcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
+| [1748-sum-of-unique-elements](https://github.com/MPEC041/leedcode/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/MPEC041/leedcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MPEC041/leedcode/tree/master/0169-majority-element) |
+| [1748-sum-of-unique-elements](https://github.com/MPEC041/leedcode/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/MPEC041/leedcode/tree/master/1854-maximum-population-year) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
