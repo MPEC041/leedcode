@@ -63,6 +63,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/MPEC041/leedcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MPEC041/leedcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MPEC041/leedcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/MPEC041/leedcode/tree/master/1748-sum-of-unique-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/MPEC041/leedcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -72,6 +73,7 @@
 | [0147-insertion-sort-list](https://github.com/MPEC041/leedcode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/MPEC041/leedcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MPEC041/leedcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MPEC041/leedcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/MPEC041/leedcode/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/MPEC041/leedcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
