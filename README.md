@@ -41,6 +41,7 @@
 | [0169-majority-element](https://github.com/MPEC041/leedcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MPEC041/leedcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MPEC041/leedcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/MPEC041/leedcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/MPEC041/leedcode/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/MPEC041/leedcode/tree/master/1480-running-sum-of-1d-array) |
@@ -117,6 +118,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/MPEC041/leedcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/MPEC041/leedcode/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/MPEC041/leedcode/tree/master/1854-maximum-population-year) |
 ## Sliding Window
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/MPEC041/leedcode/tree/master/0242-valid-anagram) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/MPEC041/leedcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
