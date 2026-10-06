@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MPEC041/leedcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/MPEC041/leedcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/MPEC041/leedcode/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MPEC041/leedcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MPEC041/leedcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MPEC041/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MPEC041/leedcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MPEC041/leedcode/tree/master/0344-reverse-string) |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MPEC041/leedcode/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MPEC041/leedcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
