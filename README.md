@@ -38,6 +38,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MPEC041/leedcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/MPEC041/leedcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/MPEC041/leedcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MPEC041/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MPEC041/leedcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MPEC041/leedcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MPEC041/leedcode/tree/master/0283-move-zeroes) |
@@ -84,6 +85,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MPEC041/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MPEC041/leedcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MPEC041/leedcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/MPEC041/leedcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MPEC041/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/MPEC041/leedcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Linked List
