@@ -95,6 +95,7 @@
 | [0283-move-zeroes](https://github.com/MPEC041/leedcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MPEC041/leedcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/MPEC041/leedcode/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/MPEC041/leedcode/tree/master/0147-insertion-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/MPEC041/leedcode/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
