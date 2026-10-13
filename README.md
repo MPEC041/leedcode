@@ -16,11 +16,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/MPEC041/leedcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MPEC041/leedcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MPEC041/leedcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MPEC041/leedcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MPEC041/leedcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MPEC041/leedcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/MPEC041/leedcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MPEC041/leedcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MPEC041/leedcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -179,5 +182,6 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/MPEC041/leedcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/MPEC041/leedcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
