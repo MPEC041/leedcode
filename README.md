@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MPEC041/leedcode/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/MPEC041/leedcode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0125-valid-palindrome](https://github.com/MPEC041/leedcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MPEC041/leedcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MPEC041/leedcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/MPEC041/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MPEC041/leedcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MPEC041/leedcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
@@ -129,6 +131,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MPEC041/leedcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MPEC041/leedcode/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/MPEC041/leedcode/tree/master/0147-insertion-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/MPEC041/leedcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MPEC041/leedcode/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -173,4 +176,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MPEC041/leedcode/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/MPEC041/leedcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
