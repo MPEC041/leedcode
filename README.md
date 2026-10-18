@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MPEC041/leedcode/tree/master/0050-powx-n) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MPEC041/leedcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/MPEC041/leedcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -19,6 +20,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/MPEC041/leedcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MPEC041/leedcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MPEC041/leedcode/tree/master/0226-invert-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MPEC041/leedcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/MPEC041/leedcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MPEC041/leedcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MPEC041/leedcode/tree/master/0226-invert-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MPEC041/leedcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
 |  |
 | ------- |
@@ -61,6 +64,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/MPEC041/leedcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/MPEC041/leedcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/MPEC041/leedcode/tree/master/1480-running-sum-of-1d-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MPEC041/leedcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/MPEC041/leedcode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/MPEC041/leedcode/tree/master/1748-sum-of-unique-elements) |
 | [1854-maximum-population-year](https://github.com/MPEC041/leedcode/tree/master/1854-maximum-population-year) |
@@ -98,6 +102,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/MPEC041/leedcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MPEC041/leedcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MPEC041/leedcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +121,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/MPEC041/leedcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MPEC041/leedcode/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MPEC041/leedcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting
 |  |
 | ------- |
@@ -192,4 +198,24 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/MPEC041/leedcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MPEC041/leedcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/MPEC041/leedcode/tree/master/0234-palindrome-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MPEC041/leedcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MPEC041/leedcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MPEC041/leedcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MPEC041/leedcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MPEC041/leedcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
