@@ -116,6 +116,7 @@
 | [0344-reverse-string](https://github.com/MPEC041/leedcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MPEC041/leedcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/MPEC041/leedcode/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/MPEC041/leedcode/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [0242-valid-anagram](https://github.com/MPEC041/leedcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MPEC041/leedcode/tree/master/0344-reverse-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MPEC041/leedcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/MPEC041/leedcode/tree/master/1768-merge-strings-alternately) |
 ## Design
 |  |
 | ------- |
